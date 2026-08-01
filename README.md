@@ -1,8 +1,8 @@
-<img align="right" src="https://github.com/PedroManzanares14.png" width="30%" alt="Foto de perfil">
 <h1>
   ¡Hola! Soy Pedro Manzanares 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+<img align="right" src="https://wsrv.nl/?url=github.com/PedroManzanares14.png&w=300&h=300&fit=cover&mask=circle" width="30%" alt="Foto de perfil">
 <p>
 Soy un apasionado desarrollador de software con experiencia en la construcción de aplicaciones completas, desde la arquitectura en el backend hasta interfaces dinámicas e interactivas en el frontend.
 </p>
