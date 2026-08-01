@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/PedroManzanares14/PedroManzanares14/main/github-profile.png" width="30%" alt="Foto de perfil">
+<img align="right" src="https://github.com/PedroManzanares14.png" width="30%" alt="Foto de perfil">
 <h1>
   ¡Hola! Soy Pedro Manzanares 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -64,8 +64,8 @@ Soy un apasionado desarrollador de software con experiencia en la construcción 
 ### 📊 &nbsp;Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroManzanares14&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroManzanares14&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Langs" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
 </p>
 <br>
 <a href="https://komarev.com/ghpvc/?username=PedroManzanares14&style=for-the-badge">
